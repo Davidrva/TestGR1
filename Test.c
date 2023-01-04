@@ -1,2 +1,6 @@
-#include <stdlib.h>
-printf(¨Hola¨);
+#include <stdio.h>
+
+int main(void){
+    printf("Hola");
+    return 1;
+}
